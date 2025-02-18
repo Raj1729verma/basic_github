@@ -4,6 +4,7 @@ basic github commands and sentences
 Author Raj Verma
 <br>
 1.clone :cloning a repository on our local machine >> git clone <"some link..">
+<br>
 2.status: display the state of code
 >> git status
 <br>
