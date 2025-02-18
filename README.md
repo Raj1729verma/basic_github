@@ -13,3 +13,6 @@ Author Raj Verma
 <br>
 4.commit: it is the record of change
 >>git commit -m "some message"
+<br>
+5.Push command : upload local repository to remote repository
+>>git push origin main
